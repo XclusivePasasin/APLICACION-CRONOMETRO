@@ -1,0 +1,10 @@
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\bin\Debug\Aplicaciòn Cronometro.exe.config
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\bin\Debug\Aplicaciòn Cronometro.exe
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\bin\Debug\Aplicaciòn Cronometro.pdb
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\obj\Debug\Aplicaciòn Cronometro.csproj.AssemblyReference.cache
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\obj\Debug\Aplicaciòn_Cronometro.frmCronometro.resources
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\obj\Debug\Aplicaciòn_Cronometro.Properties.Resources.resources
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\obj\Debug\Aplicaciòn Cronometro.csproj.GenerateResource.cache
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\obj\Debug\Aplicaciòn Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\obj\Debug\Aplicaciòn Cronometro.exe
+C:\Users\Antonio Pasasin\Documents\GitHub\APLICACION-CRONOMETRO\obj\Debug\Aplicaciòn Cronometro.pdb

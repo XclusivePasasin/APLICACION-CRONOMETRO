@@ -10,11 +10,20 @@ using System.Windows.Forms;
 
 namespace Aplicaciòn_Cronometro
 {
-    public partial class Form1 : Form
+    public partial class frmCronometro : Form
     {
-        public Form1()
+        private Timer Tiempo;
+        private int minutos;
+        private int segundo;
+
+        public frmCronometro()
         {
             InitializeComponent();
+        }
+
+        private void frmCronometro_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
